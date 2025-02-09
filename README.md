@@ -5,9 +5,9 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# GitHub Pages
+# Website Of Aarish Adhikary
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Create a site or blog from your Online repositories with Website Of Aarish Adhikary._
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -24,9 +24,9 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
 
 - **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
+- **What you'll learn**: How to build a website.
 - **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
+- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to Website Of Aarish Adhikary](https://github.com/skills/introduction-to-github) first.
 - **How long**: This course is five steps long and takes less than one hour to complete.
   
 **Course tips:**
@@ -40,7 +40,8 @@ With GitHub Pages, you can host project blogs, documentation, resumes, portfolio
    - For owner, choose your personal account or an organization to host the repository.
    - We recommend creating a public repository—private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
    - Name the repository something easy for you to recognize and remember.
-   ![Screenshot of the "Create a new repository" page. The "Public" repository option is highlighted with an orange box.](/images/create-a-repository.png)
+     <img width="858" alt="create-a-repository" src="https://github.com/user-attachments/assets/a0ac003a-303c-489d-8a25-32a4c9677aac" />
+
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README. [GitHub Actions](https://docs.github.com/en/actions) will automatically close this welcome and open the first step.
 
 </details>
@@ -54,7 +55,7 @@ With GitHub Pages, you can host project blogs, documentation, resumes, portfolio
 -->
 
 <details id=1>
-<summary><h2>Step 1: Enable GitHub Pages</h2></summary>
+<summary><h2>Step 1: Enable W.A.A</h2></summary>
 
 _Welcome to GitHub Pages and Jekyll :tada:!_
 
@@ -68,7 +69,7 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 1. Ensure "Deploy from a branch" is selected from the **Source** drop-down menu, and then select `main` from the **Branch** drop-down menu.
 1. Click the **Save** button.
 1. Wait about _one minute_, then refresh this page for the next step.
-   > Turning on GitHub Pages creates a deployment of your repository. GitHub Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
+   > Turning on W.A.A creates a deployment of your repository. W.A.A Actions may take up to a minute to respond while waiting for the deployment. Future steps will be about 20 seconds; this step is slower.
    > **Note**: In the **Pages** of **Settings**, the **Visit site** button will appear at the top. Click the button to see your GitHub Pages site.
 
 </details>
@@ -240,4 +241,4 @@ Here's a recap of all the tasks you've accomplished in your repository:
 
 Get help: [Post in our discussion board](https://github.com/skills/.github/discussions) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT Licen
+&copy; 2025 Website Of Aarish Adhikary &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License]

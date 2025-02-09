@@ -6,10 +6,10 @@ The Safe Versions For Website Of Aarish Adhikary Are Given Below.
 
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.8.x   | :white_check_mark: |
+| 5.8.x   | ✅                 |
 | 5.0.x   | ✅                 |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 4.0.x   | ✅                 |
+| < 4.0   | ✖️:                |
 
 ## Reporting a Vulnerability
 

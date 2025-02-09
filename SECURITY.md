@@ -16,7 +16,11 @@ The Safe Versions For Website Of Aarish Adhikary Are Given Below.
 If You Ever Had A Vulnerability From The Older Versions Like 1.5, Contact Us.
 
 This Service Is Only Avalible In Selected Contries:
+
 • India
+
 • USA
+
 • Canada
+
 • Japan

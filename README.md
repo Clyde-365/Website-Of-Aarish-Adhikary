@@ -30,6 +30,7 @@ With W.A.A, you can get a Lifetime Trial For Empire Enterprise Ultra Without Ads
 ## How to Install The App
 
 1. Right-click **Website Of Aarish Adhikary** and open the link in a new tab.
+
    <br />[![Website Of Aarish Adhikary](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://aarish-adhikarys-team.adalo.com/w-a-a)
 
    **Start The Canary Version**

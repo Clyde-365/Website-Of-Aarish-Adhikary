@@ -24,3 +24,8 @@ This Service Is Only Avalible In Selected Contries:
 • Canada
 
 • Japan
+
+## Contacting A Vulnerability
+
+To Contact: adhikaryclyde@gmail.com
+

@@ -41,7 +41,7 @@ _Install a site or blog from your Online repositories with Website Of Aarish Adh
 > <details>
 > <summary><h2> Updates Of The Canary Version Is </h2></summary>
 > 
-> ## "W.A.A Productions is ending support for Canary Versions the Website Of Aarish Adhikary™ (W.A.A). As a result, the Amazon Appstore on Windows and all applications and games dependent on WSA will no longer be supported beginning March 5, 2025." 
+> ## "W.A.A Productions is ending support for Canary Versions For AI Of the Website Of Aarish Adhikary™ (W.A.A)." 
 > ###### (Source: [Website Of Aarish Adhikary](https://aarish-adhikarys-team.adalo.com/w-a-a?target=2x5yyj8bjfapxxnxa9nu65rcn&params=%7B%7D))
 > ---
 > ### Website Of Aarish Adhikary has entered LTS (Long Term Support) for W.A.A versions ≥ 2311.40000.5.0, where the Stable version, Canary version and Beta version will be kept up to date via new releases.

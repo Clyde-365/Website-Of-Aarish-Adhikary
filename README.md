@@ -44,9 +44,9 @@ _Install a site or blog from your Online repositories with Website Of Aarish Adh
 > ## "W.A.A Productions is ending support for Canary Versions the Website Of Aarish Adhikary™ (W.A.A). As a result, the Amazon Appstore on Windows and all applications and games dependent on WSA will no longer be supported beginning March 5, 2025." 
 > ###### (Source: [Website Of Aarish Adhikary](https://aarish-adhikarys-team.adalo.com/w-a-a?target=2x5yyj8bjfapxxnxa9nu65rcn&params=%7B%7D))
 > ---
-> ### Website Of Aarish Adhikary has entered LTS (Long Term Support) for WSA versions ≥ 2311.40000.5.0, where the Magisk version, KernelSU version and GApps version will be kept up to date via new releases.
-> ### This repo will not be archived and support will still be given to any users installing WSA Builds from this repo. Thank you all for using this repository and supporting my work, its been a pleasure serving this community. 
-> ### Do make sure that you keep a look out for any updates to this repo to be notified of any futher changes to WSA and WSABuilds      
+> ### Website Of Aarish Adhikary has entered LTS (Long Term Support) for W.A.A versions ≥ 2311.40000.5.0, where the Stable version, Canary version and Beta version will be kept up to date via new releases.
+> ### This repo will not be archived and support will still be given to any users installing The Canary Version Of This Software from this repo. Thank you all for using this repository and supporting my work, its been a pleasure seeing this community. 
+> ###       
 >
 > ---
 > </details>
@@ -56,19 +56,11 @@ _Install a site or blog from your Online repositories with Website Of Aarish Adh
 > <summary><h2>Next Versions Release Date: </h2></summary>
 >   
 > ### Progressive Web Applications (v2407.40000.4.0):
-> ~~``Monday 9th December 2024``~~  **Available Now (via the Stable release buttons in [Downloads](https://aarish-adhikarys-team.adalo.com/w-a-a))**
+> ``Saturday 8th March 2025``  **Available Now (via the Stable release buttons in [Downloads](https://aarish-adhikarys-team.adalo.com/w-a-a))**
 > ### Android 16 (v2407.40000.4.0) 
-> ~~``Monday 9th December 2024``~~  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/MustardChef/WSABuilds#downloads))** 
-> ### Non-LTS Build Update (v2407.40000.0.0):
-> ~~``Thursday 5th December 2024``~~  **Available Now (via the Stable release buttons in [Downloads](https://github.com/MustardChef/WSABuilds#downloads))**
-> ### WSABuilds LTS 5 (v2407.40000.0.0) 
-> ~~``Thursday 5th December 2024``~~  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/MustardChef/WSABuilds#downloads))** 
-> ### WSABuilds LTS 4 (v2407.40000.0.0): 
-> ~~``Monday 15th July 2024``~~  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/MustardChef/WSABuilds#downloads))** 
-> ### WSABuilds LTS 3 (v2311.40000.5.0): 
-> ~~``Monday 03rd June 2024``~~  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/MustardChef/WSABuilds#downloads))** 
-> ### WSABuilds LTS 2 (v2311.40000.5.0): 
-> ~~``Friday 03rd May 202  
+> ``Saturday 8th March 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary/releases/tag/v5.8-beta.5))** 
+> ### Beta (v2407.40000.0.0):
+> ``Saturday 8th March 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://aarish-adhikarys-team.adalo.com/w-a-a))**
 
 <details id=0 open>
 <summary><h2>Welcome</h2></summary>

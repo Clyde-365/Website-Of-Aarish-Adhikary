@@ -78,7 +78,6 @@ With Website Of Aarish Adhikary, you can get a Lifetime Trial For Empire Enterpr
    <br />[![Website Of Aarish Adhikary](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://aarish-adhikarys-team.adalo.com/w-a-a)
 
 
-
    **Start The Canary Version**
    -To Do This, Download The HTML File, Run It, That's It! Now Enjoy The Original W.A.A Canary 2025!
 

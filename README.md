@@ -18,20 +18,26 @@ _Install a site or blog from your Online repositories with Website Of Aarish Adh
   Do not use quotes on the <details> tag attributes.
 -->
 
+> [!NOTE]
+> #### 1. The Canary Version Of Website Of Aarish Adhikary With AI Will Stop Rolling Out In December 21st 2026
+> #### 2.Dynasty Workspace Ultra Is Going To Release Between March, 2025
+
 <details id=0 open>
 <summary><h2>Welcome</h2></summary>
 
-With W.A.A, you can get a Lifetime Trial For Empire Enterprise Ultra Without Ads Forever!
+With Website Of Aarish Adhikary, you can get a Lifetime Trial For Empire Enterprise Ultra Without Ads Forever!
 
 - **Who is this for**: Enterprises, Large Business and Small Business Or Enterprise.
 - **What you'll Install**: We'll Install Either The Stable Or Canary From A Zip File.
-- **How long**: This Installation is 3 steps long and takes less than one minute to complete.
+- **How long**: This Installation is 3 steps long and takes less than one minute to complete
 
-## How to Install The App
+## How to Install The Software
 
 1. Right-click **Website Of Aarish Adhikary** and open the link in a new tab.
 
    <br />[![Website Of Aarish Adhikary](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://aarish-adhikarys-team.adalo.com/w-a-a)
+
+
 
    **Start The Canary Version**
    -To Do This, Download The HTML File, Run It, That's It! Now Enjoy The Original W.A.A Canary 2025!

@@ -62,24 +62,14 @@ _Install a site or blog from your Online repositories with Website Of Aarish Adh
 > ### Beta (v2407.40000.0.0):
 > ``Saturday 8th March 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://aarish-adhikarys-team.adalo.com/w-a-a))**
 
-<details id=0 open>
-<summary><h2>Welcome</h2></summary>
-
-With Website Of Aarish Adhikary, you can get a Lifetime Trial For Empire Enterprise Ultra Without Ads Forever!
-
-- **Who is this for**: Enterprises, Large Business and Small Business Or Enterprise.
-- **What you'll Install**: We'll Install Either The Stable Or Canary From A Zip File.
-- **How long**: This Installation is 3 steps long and takes less than one minute to complete
-
-## How to Install The Software
-
-1. Right-click **Website Of Aarish Adhikary** and open the link in a new tab.
-
-   <br />[![Website Of Aarish Adhikary](https://user-images.githubusercontent.com/1221423/218596841-0645fe1a-4aaf-4f51-9ab3-8aa2d3fdd487.svg)](https://aarish-adhikarys-team.adalo.com/w-a-a)
+<picture><img align="left" height="20%" src="https://github.com/MustardChef/WSABuilds/assets/68516357/35cd1d5d-e464-4eb8-a676-b451341f65ad" width="20%"/></picture>
+<h1>Website Of Aarish Adhikary</h1>
+<h3>Setup File For Every Versions (For Windows™ 11 and bellow till Windows 1)</h3>
+<h5>Website Of Aarish Adhikary™ (WSA) with W.A.A Productions </h5>
 
 
-   **Start The Canary Version**
-   -To Do This, Download The HTML File, Run It, That's It! Now Enjoy The Original W.A.A Canary 2025!
+ By @Aarish_Adhikary-UTCM
+ 
 
 
 &copy; 2025 Website Of Aarish Adhikary &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License]

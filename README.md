@@ -62,6 +62,13 @@ _Install a site or blog from your Online repositories with Website Of Aarish Adh
 > ### Beta (v2407.40000.0.0):
 > ``Saturday 8th March 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://aarish-adhikarys-team.adalo.com/w-a-a))**
 
+**NOTE**
+> <details>
+> <summary><h2> How To Get Android 16 </h2></summary>
+> 
+>To Get Android 16, Either Download The Zip, Then Open Software Zip And Open Android 16.html or Go To Release, Tag: 5.8.beta, Click On The Software.zip Download And Click On Android 16.html
+ 
+
 <picture><img align="left" height="20%" src="https://github.com/MustardChef/WSABuilds/assets/68516357/35cd1d5d-e464-4eb8-a676-b451341f65ad" width="20%"/></picture>
 <h1>Website Of Aarish Adhikary</h1>
 <h3>Setup File For Every Versions (For Windows™ 11 and bellow till Windows 1)</h3>
@@ -69,6 +76,7 @@ _Install a site or blog from your Online repositories with Website Of Aarish Adh
 
 
  By @Aarish_Adhikary-UTCM
+
  
 
 

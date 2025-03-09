@@ -39,7 +39,7 @@ _Install a site or blog from your Online repositories with Website Of Aarish Adh
 
 > [!TIP]
 > <details>
-> <summary><h2> Updates Of The Canary Version Is </h2></summary>
+> <summary><h2> NEWS OF SUPPORT ENDING OF THE CANARY VERSION ONLY WITH AI IN W.A.A PRODUCTIONS </h2></summary>
 > 
 > ## "W.A.A Productions is ending support for Canary Versions For AI Of the Website Of Aarish Adhikary™ (W.A.A)." 
 > ###### (Source: [Website Of Aarish Adhikary](https://aarish-adhikarys-team.adalo.com/w-a-a?target=2x5yyj8bjfapxxnxa9nu65rcn&params=%7B%7D))

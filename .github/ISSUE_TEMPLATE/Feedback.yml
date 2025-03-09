@@ -1,0 +1,47 @@
+        name: Feedback
+
+        description: Submit feedback about our product or service
+
+        body:
+
+        - type: text
+
+          id: title
+
+          attributes:
+
+            label: Issue Title
+
+            description: A brief summary of your feedback
+
+        - type: textarea
+
+          id: description
+
+          attributes:
+
+            label: Description
+
+            description: Provide detailed information about your feedback
+
+        - type: dropdown
+
+          id: severity
+
+          attributes:
+
+            label: Severity
+
+            options:
+
+              - value: Low
+
+                name: Low
+
+              - value: Medium
+
+                name: Medium
+
+              - value: High
+
+                name: High

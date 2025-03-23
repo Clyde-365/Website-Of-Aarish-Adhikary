@@ -107,7 +107,7 @@ Here Are Some Of The Terms Listed To Use The Exclutable:
 
 <!---
 --->
-<p align="left"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=discord,gmail,html,windows" /> 
+<p align="left"> <a href=""> <img src="https://skillicons.dev/icons?i=discord,gmail,html,windows" /> 
 
 
 

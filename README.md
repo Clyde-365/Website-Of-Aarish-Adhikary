@@ -7,7 +7,7 @@
 
 # Website Of Aarish Adhikary
 
-_Install a site or blog from your Online repositories with Website Of Aarish Adhikary._
+The Original New W.A.A Productions
 
 <!--
   <<< Author notes: Start of the course >>>
@@ -56,23 +56,61 @@ _Install a site or blog from your Online repositories with Website Of Aarish Adh
 > <summary><h2>Next Versions Release Date: </h2></summary>
 >   
 > ### Progressive Web Applications (v2407.40000.4.0):
-> ``Saturday 8th March 2025``  **Available Now (via the Stable release buttons in [Downloads](https://aarish-adhikarys-team.adalo.com/w-a-a))**
-> ### Android 16 (v2407.40000.4.0) 
-> ``Saturday 8th March 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary/releases/tag/v5.8-beta.5))** 
+> ``Saturday 8th March 2025``  **Available Now (via the Stable release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary))**
+> ### Canary Beta (v2407.40000.4.0) 
+> ``Saturday 8th March 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary))** 
 > ### Beta (v2407.40000.0.0):
-> ``Saturday 8th March 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://aarish-adhikarys-team.adalo.com/w-a-a))**
+> ``Saturday 8th March 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary))**
 
-**NOTE**
-> <details>
-> <summary><h2> How To Get Android 16 </h2></summary>
-> 
->To Get Android 16, Either Download The Zip, Then Open Software Zip And Open Android 16.html or Go To Release, Tag: 5.8.beta, Click On The Software.zip Download And Click On Android 16.html
  
 
-<picture><img align="left" height="20%" src="https://github.com/MustardChef/WSABuilds/assets/68516357/35cd1d5d-e464-4eb8-a676-b451341f65ad" width="20%"/></picture>
-<h1>Website Of Aarish Adhikary</h1>
-<h3>Setup File For Every Versions (For Windows™ 11 and bellow till Windows 1)</h3>
-<h5>Website Of Aarish Adhikary™ (WSA) with W.A.A Productions </h5>
+# Website Of Aarish Adhikary
+
+This Is Our First Leap From Small Business To An Large Enterprise.
+Because Of Your Support, We Have Managed To Build Canary Beta, V45.00.00.365.
+
+Here Are Some Of The Terms Listed To Use The Exclutable:
+
+# TERMS AND CONDITIONS FOR RUNNING THIS SOFTWARE
+
+ • The Product Has Been Licensed To Selected Countries-
+ - India
+ - United States Of America
+ - Japan
+ • This Product Can Be Only Be Installed On https://aarish-adhikarys-team.adalo.com/w-a-a . For GitHub Link, Please Visit   https://github.com/Clyde-365/Website-Of-Aarish-Adhikary-V450.365.
+
+ • If You Have Downloaded This From Any Websites Like 1337X, Don't Accept Such Dealers As They Sell Pirated Software And Games.  Only Download This Software From The Mentioned Links. Immediately Contact adhikaryclyde@gmail.com If You Have Mistakenly Downloaded It From Pirated Websites
+
+ • All Rights And Copyright Is Reserved By The Website Of Aarish Adhikary LLC 2025. This Setup Should Take Less Than 1GB Of Your Disk
+
+ • This Installation Should Have Empire Enterprise Ultra Plan Option And Others Like Ultimate Plan And Dynasty Workspace Ultra
+
+ •There Are Several Types Of Users In The HTML File Like IT Admin, Admin, And Users
+
+ •The Serial Keys Are Listed Below:
+
+-	PROMO
+-	Website Of Aarish Adhikary
+-	VIP Membership
+
+ •The Benefits To Install This Software Is It Has Posts, Dev Tools, Menu, New UI And More Coming Soon Only In India. This Software Contains Different Plans Like Empire Enterprise Ultra, Dynasty Workspace Ultra And Ultimate Plan. You Must Have A Real Email To Get OTP. You Can Add Emails That Are Not Real, But You Must Have Emails Like @yourwebsite.com. To Own A Custom Domain, Register At GoDaddy And Wix. You Can Also Own A Custom Domain By Creating A Business Gmail Account.
+
+
+   Approved And Verified By The W.A.A Productions
+
+
+  © Website Of Aarish Adhikary™ LLC 2025
+
+
+   
+
+
+<!---
+--->
+![image](https://github.com/user-attachments/assets/057b396a-dfdf-45fb-a1d8-1067a2279456)
+
+
+
 
 
  By @Aarish_Adhikary-UTCM

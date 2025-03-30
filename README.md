@@ -123,4 +123,4 @@ Here Are Some Of The Terms Listed To Use The Exclutable:
  
 
 
-&copy; 2025 Website Of Aarish Adhikary &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License]
+&copy; 2025 Website Of Aarish Adhikary &bull; [Code of Conduct](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary?tab=coc-ov-file) &bull; [MIT License]

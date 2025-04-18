@@ -14,6 +14,23 @@ The Original New W.A.A Productions
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clyde-365&show_icons=true&theme=dark&count_private=true)
 
 
+### Information About Support LTSC Ending Date
+
+
+###### - We Have Decided To Delete Copilot AI At March 5th, Anybody Using Now Will See Error While We Are Offline. That Problem Pushed Us To Make A Exe File Replace Over The Old HTML, New Users Will Be Only Created In The Exe File Expect HTML, We Are Planing To Delete All HTML Files At December 20th 2026
+
+###### - This Repository Adds Subscription Special To Anybody Following The Owner Of This Repository Or The Orginazation He Joined
+
+###### - All this is, is an Official project related to W.A.A Productions and Clyde Devs with the team of Aarish Productions 
+
+---
+
+### Did This Repository Really Deleted Its AI
+
+
+###### This Is The Original Repository Created By Clyde-365. And Yes, We Ended The Support For Running It
+
+
 > [!TIP]
 > <details>
 > <summary><h2> NEWS OF SUPPORT ENDED OF THE CANARY VERSION ONLY WITH AI IN W.A.A PRODUCTIONS </h2></summary>

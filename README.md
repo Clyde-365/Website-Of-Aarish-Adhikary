@@ -9,6 +9,11 @@
 
 The Original New W.A.A Productions
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clyde-365&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clyde-365&show_icons=true&theme=dark&count_private=true)
+
+
 > [!TIP]
 > <details>
 > <summary><h2> NEWS OF SUPPORT ENDED OF THE CANARY VERSION ONLY WITH AI IN W.A.A PRODUCTIONS </h2></summary>

@@ -133,7 +133,6 @@ Do You Know?
 
 ![IT Admin](https://img.shields.io/badge/IT%20Admin-%23C31010?style=flat&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Online-brightgreen)
-![Status](https://img.shields.io/badge/Status-Offline-red)
 ![Website Of Aarish Adhikary](https://img.shields.io/badge/Website%20Of%20Aarish%20Adhikary-%23C31010?style=flat&logo=internet-explorer&logoColor=white)
    
 

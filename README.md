@@ -55,12 +55,12 @@ The Original New W.A.A Productions
 > <details>
 > <summary><h2>Next Versions Release Date: </h2></summary>
 >   
-> ### Progressive Web Applications (v2407.40000.4.0):
-> ``Saturday 8th March 2025``  **Available Now (via the Stable release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary))**
-> ### Canary Beta (v2407.40000.4.0) 
-> ``Saturday 8th March 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary))** 
-> ### Beta (v2407.40000.0.0):
-> ``Saturday 8th March 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary))**
+> ### Progressive Web Applications (40.00.00.000.v):
+> ``Friday 18th April 2025``  **Available Now (via the Stable release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary))**
+> ### Canary Beta (45.00.00.365.v) 
+> ``Friday 18th April 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary))** 
+> ### Beta (43.00.00.000.v):
+> ``Friday 18th April 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary))**
 
  
 

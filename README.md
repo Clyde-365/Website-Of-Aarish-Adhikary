@@ -81,7 +81,7 @@ Because Of Your Support, We Have Managed To Build Canary Beta, V45.00.00.365.
 Here Are Some Of The Terms Listed To Use The Exclutable -
 
 
-    TERMS AND CONDITIONS FOR RUNNING THIS SOFTWARE
+    ## TERMS AND CONDITIONS FOR RUNNING THIS SOFTWARE
 
  · The Product Has Been Licensed To Selected Countries-
  - India

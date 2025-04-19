@@ -621,7 +621,7 @@ This Is The Common Creative Given Below
 
 <!---
 --->
-<p align="left"> <a href=""> <img src="https://skillicons.dev/icons?i=discord,gmail,html,windows,github,linkedin" /> 
+<p align="left"> <a href=""> <img src="https://skillicons.dev/icons?i=discord,gmail,html,windows,github,linkedin,androidstudio,cs,c,cpp,gcp,github,js,py,replit,nodejs,cloudflare,actix" /> 
 
 
 

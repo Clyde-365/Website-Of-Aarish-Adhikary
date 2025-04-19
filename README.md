@@ -9,7 +9,7 @@
 
 The Original New W.A.A Productions
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)])
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clyde-365&layout=compact&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clyde-365&show_icons=true&theme=dark&count_private=true)
 

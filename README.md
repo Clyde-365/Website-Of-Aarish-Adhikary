@@ -49,7 +49,7 @@ The Original New W.A.A Productions
 > <details>
 > <summary><h2>Next Versions Release Date: </h2></summary>
 >   
-> ### Progressive Web Applications (40.00.00.000.v):
+> ### Progressive Web Software (PWS) (40.00.00.000.v):
 > ``Friday 18th April 2025``  **Available Now (via the Stable release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary))**
 > ### Canary Beta (45.00.00.365.v) 
 > ``Friday 18th April 2025``  **Available Now (via the Pre-release buttons in [Downloads](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary))** 
@@ -621,8 +621,8 @@ This Is The Common Creative Given Below
 
 <!---
 --->
-<p align="left"> <a href=""> <img src="https://skillicons.dev/icons?i=discord,gmail,html,windows,github,linkedin,androidstudio,cs,c,cpp,gcp,github,js,py,replit,nodejs,cloudflare,actix" /> 
 
+<p align="left"> <a href=""> <img src="https://skillicons.dev/icons?i=discord,gmail,html,windows,github,linkedin,androidstudio,cs,c,cpp,gcp,github,js,py,replit,nodejs,cloudflare,actix" /> 
 
 
 

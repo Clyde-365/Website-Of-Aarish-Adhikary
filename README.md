@@ -10,34 +10,27 @@
 The Original New W.A.A Productions
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clyde-365&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="clyde-365" /></p>
+| <a href="https://github.com/clyde-365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=clyde-365&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Website Of Aarish Adhikary's github stats" /></a> | <a href="https://github.com/clyde-365/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clyde-365&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clyde-365&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="clyde-365" /></p>
+#### Top Repositories
+
+
+<a href="https://github.com/Clyde-365/Website-Of-Aarish-Adhikary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clyde-365&repo=website-of-aarish-adhikary&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clyde-365&theme=dark" alt="clyde-365" /></p>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Clyde-365&theme=redical&hide_border=true)
 
-
 <p><a target="_blank" href="https://www.youtube.com/@Aarish_Adhikary-UTCM" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
-
-
-### Information About Support LTSC Ending Date
-
-
-###### - We Have Decided To Delete Copilot AI At March 5th, Anybody Using Now Will See Error While We Are Offline. That Problem Pushed Us To Make A Exe File Replace Over The Old HTML, New Users Will Be Only Created In The Exe File Expect HTML, We Are Planing To Delete All HTML Files At December 20th 2026
-
-###### - This Repository Adds Subscription Special To Anybody Following The Owner Of This Repository Or The Orginazation He Joined
-
-###### - All this is, is an Official project related to W.A.A Productions and Clyde Devs with the team of Aarish Productions 
-
----
-
-### Did This Repository Really Deleted Its AI
-
-
-###### This Is The Original Repository Created By Clyde-365. And Yes, We Ended The Support For Running It
-
 
 > [!TIP]
 > <details>
@@ -46,7 +39,7 @@ The Original New W.A.A Productions
 > ## "W.A.A Productions is had ended support for Canary Versions For AI Of the Website Of Aarish Adhikary™ (W.A.A)." 
 > ###### (Source: [Website Of Aarish Adhikary](https://aarish-adhikarys-team.adalo.com/w-a-a?target=2x5yyj8bjfapxxnxa9nu65rcn&params=%7B%7D))
 > ---
-> ### Website Of Aarish Adhikary has entered LTS (Long Term Support) for W.A.A versions ≥ 45.00.00.365, where the Stable version, Canary version and Beta version will be kept up to date via new releases.
+> ### Website Of Aarish Adhikary has entered LTSC (Long Term Support Center) for W.A.A versions ≥ 45.00.00.365, where the Stable version, Canary version and Beta version will be kept up to date via new releases.
 > ### This repo will not be archived and support will still be given to any users installing The Canary Version Of This Software from this repo. Thank you all for using this repository and supporting my work, its been a pleasure seeing this community. 
 > ###       
 >
@@ -233,12 +226,34 @@ This Is The Copyable Text For The License Of The MIT License
 <!-- readme: contributors -end -->    
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+
 <!---
 --->
 
 <p align="left"> <a href=""> <img src="https://skillicons.dev/icons?i=discord,gmail,html,windows,github,linkedin,androidstudio,cs,c,cpp,gcp,github,js,py,replit,nodejs,cloudflare,actix" /> 
 
 
+### Information About Support LTSC Ending Date
+
+
+###### - We Have Decided To Delete Copilot AI At March 5th, Anybody Using Now Will See Error While We Are Offline. That Problem Pushed Us To Make A Exe File Replace Over The Old HTML, New Users Will Be Only Created In The Exe File Expect HTML, We Are Planing To Delete All HTML Files At December 20th 2026
+
+###### - This Repository Adds Subscription Special To Anybody Following The Owner Of This Repository Or The Orginazation He Joined
+
+###### - All this is, is an Official project related to W.A.A Productions and Clyde Devs with the team of Aarish Productions 
+
+---
+
+### Did This Repository Really Deleted Its AI
+
+
+###### This Is The Original Repository Created By Clyde-365. And Yes, We Ended The Support For Running It
 
 
 
@@ -250,4 +265,4 @@ This Is The Copyable Text For The License Of The MIT License
 
 &copy; 2025 Website Of Aarish Adhikary &bull; [Code of Conduct](https://github.com/Clyde-365/Website-Of-Aarish-Adhikary?tab=coc-ov-file) &bull; [MIT License]
 
-Here Are Our Contributers-
+# Here Are Our Contributers-

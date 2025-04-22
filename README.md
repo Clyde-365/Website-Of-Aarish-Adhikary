@@ -19,6 +19,8 @@ The Original New W.A.A Productions
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Clyde-365&theme=redical&hide_border=true)
 
 
+<p><a target="_blank" href="https://www.youtube.com/@Aarish_Adhikary-UTCM" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
+
 
 ### Information About Support LTSC Ending Date
 

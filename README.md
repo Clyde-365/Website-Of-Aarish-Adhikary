@@ -2,7 +2,7 @@
   <<< Author notes: Header of the course >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, Website Of Aarish Adhikary uses Creative Commons Attribution 5.0 International.
+  Add your open source license, Website Of Aarish Adhikary uses MIT License.
 -->
 
 # Website Of Aarish Adhikary
@@ -10,9 +10,15 @@
 The Original New W.A.A Productions
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clyde-365&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clyde-365&show_icons=true&theme=radical)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clyde-365&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en&layout=compact" alt="clyde-365" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clyde-365&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&locale=en" alt="clyde-365" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clyde-365&theme=dark" alt="clyde-365" /></p>
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Clyde-365&theme=redical&hide_border=true)
+
+
 
 ### Information About Support LTSC Ending Date
 

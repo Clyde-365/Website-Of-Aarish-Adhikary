@@ -20,6 +20,13 @@ The Original New W.A.A Productions
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clyde-365&repo=website-of-aarish-adhikary&theme=buefy" />
 </a>
 
+<a href="https://github.com/Clyde-365/WSABuilds">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clyde-365&repo=WSABuilds&theme=buefy" />
+</a>
+
+<a href="https://github.com/Clyde-365/Clyde-365">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=clyde-365&repo=Clyde-365&theme=buefy" />
+</a>
 <br />
 <br />
 

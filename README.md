@@ -37,11 +37,37 @@ The Original New W.A.A Productions
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Clyde-365&theme=redical&hide_border=true)
 
+
+
+
+
+
 <a href='https://youtube.com/@Aarish_Adhikary-UTCM' target="_blank"><img alt='YouTube' src='https://img.shields.io/badge/YouTube_Premium-100000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=C30000&color=C30000'/></a>
+
+
+
+
+
 
 <a href='https://discord.com/invite/yrCcqppGhe' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=0000AD&color=black'/></a>
 
+
+
+
+
+
+<a href='https://aarish-adhikarys-team.adalo.com/w-a-a' target="_blank"><img alt='' src='https://img.shields.io/badge/Website_Of Aarish Adhikary-100000?style=for-the-badge&logo=&logoColor=white&labelColor=000000&color=C00000'/></a>
+
+
+
+
+
+
 <a href='mailto:adhikaryclyde@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&labelColor=00078D&color=000000'/></a>
+
+
+
+
 
 > [!TIP]
 > <details>

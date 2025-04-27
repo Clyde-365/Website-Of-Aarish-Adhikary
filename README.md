@@ -39,7 +39,7 @@ The Original New W.A.A Productions
 
 <a href='https://youtube.com/@Aarish_Adhikary-UTCM' target="_blank"><img alt='YouTube' src='https://img.shields.io/badge/YouTube_Premium-100000?style=for-the-badge&logo=YouTube&logoColor=white&labelColor=C30000&color=C30000'/></a>
 
-<a href='' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=FFFFFF&labelColor=00078D&color=000000'/></a>
+<a href='https://discord.com/invite/yrCcqppGhe' target="_blank"><img alt='Discord' src='https://img.shields.io/badge/Discord-100000?style=for-the-badge&logo=Discord&logoColor=white&labelColor=0000AD&color=black'/></a>
 
 <a href='mailto:adhikaryclyde@gmail.com' target="_blank"><img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=for-the-badge&logo=Gmail&logoColor=FFFFFF&labelColor=00078D&color=000000'/></a>
 
